@@ -1,5 +1,13 @@
 # TextAnalytics
 
+<h2>Summary </h2>
+- Predicted doctor’s knowledge ratings on 20K test data using BERT model trained by 80K doctor review, achieving a 91.22% accuracy rate; enhanced decision-making regarding medical training needs.
+
+<br />
+<br />
+- Developed and implemented a data preprocessing pipeline that removed punctuations, numbers, stop words, and white spaces, optimizing the data quality for analysis and improving model performance.
+<br />
+
 <h2>Description</h2>
 This project aimed to predict doctors' knowledge ratings using 80K patient reviews and different machine learning models.
 <br />
@@ -11,15 +19,6 @@ After processing the text and pairing it with labels, the data is batched into s
 <br />
 <br />
 
-
-<h2>Action </h2>
-- Executed a quasi-experiment to investigate the effectiveness of three potential new educational programs at the learning center, analyzing an 18K student grade dataset with R.
-<br />
-<br />
-- Applied linear regression to statistically compare the performance across different student groups to identify the improvement brought by new educational programs.
-<br />
-<br />
-- Visualized the student grade comparisons by Tableau; compiled an analysis report with insights and recommendations, resulting in a <b>threefold improvement</b> in student scores compared to the original program.
 
 
 <h2>Languages and Tools Used</h2>
